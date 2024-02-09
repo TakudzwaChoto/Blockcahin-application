@@ -10,7 +10,7 @@ As new blocks are mined, users are rewarded with money and new blocks get added 
  
 ## Prequisites
 ### Python 3.11.0 or + Needs to be installed
-### Downloading Anaconda Package Manager is highly recommended for retrieving some essential packages needed to run application. Please visit <https://www.anaconda.com/distribution/#download-section> for instructions to downlnoad.
+
 
 ## Installation 
 ```
