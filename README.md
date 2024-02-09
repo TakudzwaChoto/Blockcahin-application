@@ -1,4 +1,6 @@
 # Blockchain Web Application
+![image](https://github.com/TakudzwaChoto/Blockcahin-Application/assets/56199912/81c2968a-d450-46f7-b6c8-eb171c817177)
+
 
 Created a single web page application to allow users to create a wallet that creates, loads and holds private and public keys. This helps to manage transaction signing and verification. 
 As new blocks are mined, users are rewarded with money and new blocks get added to a blockchain data structure. Users are allowed to engage in transactions to send money to recipients, Transactions are broadcasted from sender to receiver upon completing successfully. 
@@ -7,7 +9,7 @@ As new blocks are mined, users are rewarded with money and new blocks get added 
  These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
  
 ## Prequisites
-### Python 3.6+ Needs to be installed
+### Python 3.11.0 or + Needs to be installed
 ### Downloading Anaconda Package Manager is highly recommended for retrieving some essential packages needed to run application. Please visit <https://www.anaconda.com/distribution/#download-section> for instructions to downlnoad.
 
 ## Installation 
@@ -50,8 +52,9 @@ Can run web service on different port by running the following command:
 
 ## Authors
 
-* **Sunny Solanki**
+* **Takudzwa Choto**
 
-## License
+![image](https://github.com/TakudzwaChoto/Blockcahin-Application/assets/56199912/66b2800d-0a9b-4f3a-b95d-7211bcfdee7a)
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+
