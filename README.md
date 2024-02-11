@@ -53,6 +53,8 @@ Can run web service on different port by running the following command:
 ## Authors
 
 * **Takudzwa Choto**
+                                                                                                                                           
+                                                                                                                         contact me at: ctakudzwa95@gmail.com
 
 ![image](https://github.com/TakudzwaChoto/Blockcahin-Application/assets/56199912/66b2800d-0a9b-4f3a-b95d-7211bcfdee7a)
 
